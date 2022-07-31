@@ -1,4 +1,4 @@
-image: ferranhalborn/halborn-academy-eth
-ports:
-  - port: 6080
-    onOpen: open-preview
+image: gitpod/workspace-full
+#ports:
+#  - port: 6080
+#    onOpen: open-preview
